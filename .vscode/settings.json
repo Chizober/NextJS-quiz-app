@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PGLocal",
+            "database": "NewDB",
+            "username": "postgres",
+            "password": "zober5351",
+            "connectionTimeout": 30
+        }
+    ]
+}
